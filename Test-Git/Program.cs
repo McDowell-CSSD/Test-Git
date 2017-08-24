@@ -7,7 +7,7 @@ namespace TestGit
         public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            var temp = Console.ReadLine();
         }
     }
 }
